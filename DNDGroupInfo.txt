@@ -1,0 +1,2 @@
+Members: User1, User2
+Minimum Time: 1
